@@ -1,0 +1,36 @@
+@media (max-width:991px) {
+  .text-center-xs{text-align: center;}
+  .header h1~ .lead:after{margin: 15px auto; }
+  .header .centering-vh{ margin-top: 60px;}
+  .header h1 {font-size: 55px;}
+  .header h1~ .lead {font-size: 26px;}
+  .header button {display: block; margin:20px auto;}
+
+  .head-border:after{margin: 25px auto;}
+
+  .social-section{text-align: center;}
+  .social-section{margin-bottom: 15px;}
+  .social-section i{margin:10px 15px; }
+
+  .tabs-section{text-align: center;}
+  .tabs-section .tabs-content h3 {margin:30px 0 20px; }
+
+  .sublist {text-align: center; padding: 40px 0;}
+  .sublist .list-icon i {float: none  !important; margin:10px 0; }
+  .sublist .list-icon .text-info {float: none  !important; width: 100%;}
+
+  .standard-picture {padding: 40px 0; text-align: center;}
+
+  .awesome .feat-box{margin-bottom: 30px;}
+
+  .price-options {padding: 40px 0;}
+  .price-options .price-desc {margin-bottom: 10px;}
+  .price-options .price-box {margin-bottom: 30px;}
+
+  .testimonials{padding: 40px 0;}
+  .testimonials .media{margin-bottom:30px; }
+
+  .stylish .overlay{padding: 40px 0;}
+
+  .contact-us {padding: 40px 0 ;}
+}
