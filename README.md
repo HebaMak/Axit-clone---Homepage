@@ -1,6 +1,6 @@
 # Axit-clone---Homepage
 
-### demo link:
+### demo link: https://hebamak.github.io/Axit-clone---Homepage/
 
 ## technologies used
 * Technologies used:  Html5, Css3, Bootstrap ,JQuery
