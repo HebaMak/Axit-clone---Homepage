@@ -1,6 +1,6 @@
 # Axit-clone---Homepage
 
-# demo link:
+### demo link:
 
 ## technologies used
 * Technologies used:  Html5, Css3, Bootstrap ,JQuery
